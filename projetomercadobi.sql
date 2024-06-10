@@ -1,0 +1,24 @@
+SELECT*FROM produtos
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
